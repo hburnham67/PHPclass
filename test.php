@@ -1,3 +1,4 @@
 <?php
-phpinfo();
+    //Dump Server Information
+    phpinfo();
 ?>
